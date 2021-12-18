@@ -1,2 +1,2 @@
 # Python_Project
-This is where I will be putting the Jypiter notebook that is my final python project.
+This is my python project for CS102 and all associated files. I have included an MP4 of the solidworks animation just so you can see where all of this data comes from. I have also included the .trz file which is used by the software "Tracker" and using that you can see how I obtained the data set. The .txt file is what was exported from tracker and this what my code uses in order to produce the graphs. To run the code you just need to have the python file and the .txt file in the same folder so that the python code can find the file.
